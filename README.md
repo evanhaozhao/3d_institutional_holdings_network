@@ -3,7 +3,7 @@
     <script src="jquery.js"></script> 
     <script> 
     $(function(){
-      $("#includedContent").load("/figure/share_holding_network.html.html"); 
+      $("#includedContent").load("/figure/share_holding_network.html"); 
     });
     </script> 
   </head> 
